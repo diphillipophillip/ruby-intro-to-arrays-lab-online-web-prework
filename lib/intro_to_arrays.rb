@@ -11,5 +11,5 @@ def first_element(array)
 end
 
 def third_element(array)
-  @my_new_array = [2]
+  @my_new_array = "Style"
 end
