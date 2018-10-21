@@ -13,3 +13,6 @@ end
 def third_element(array)
   @my_new_array = "Style"
 end
+
+def last_element(array)
+  @my_new_array 
