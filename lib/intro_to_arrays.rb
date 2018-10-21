@@ -25,3 +25,7 @@ end
 def last_element_with_array_methods(array)
   @my_new_array = "Myanmar"
 end
+
+def length_of_array(array)
+  @my_new_array = array.length 
+end
