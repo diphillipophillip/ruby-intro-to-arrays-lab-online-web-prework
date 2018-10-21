@@ -9,3 +9,7 @@ end
 def first_element(array)
   @my_new_array = "Welcome to New York"
 end
+
+def third_element(array)
+  @my_new_array = [2]
+end
