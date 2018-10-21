@@ -15,4 +15,4 @@ def third_element(array)
 end
 
 def last_element(array)
-  @my_new_array 
+  @my_new_array = "Out of the woods"
