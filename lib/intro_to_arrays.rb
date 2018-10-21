@@ -17,3 +17,6 @@ end
 def last_element(array)
   @my_new_array = "Out of The Woods"
 end
+
+def first_element_with_array_methods(array)
+  @my_new_array = 
