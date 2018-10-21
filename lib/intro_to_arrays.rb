@@ -19,4 +19,5 @@ def last_element(array)
 end
 
 def first_element_with_array_methods(array)
-  @my_new_array = 
+  @my_new_array = [0]
+end
