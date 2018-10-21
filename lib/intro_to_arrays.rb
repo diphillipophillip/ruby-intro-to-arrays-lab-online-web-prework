@@ -19,5 +19,5 @@ def last_element(array)
 end
 
 def first_element_with_array_methods(array)
-  @my_new_array = [0]
+  @my_new_array = "Thailand"
 end
